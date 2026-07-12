@@ -3,7 +3,7 @@
 A custom fork of Minecraft Beta 1.8 that expands Adventure Update-era gameplay with new biomes, blocks, movement changes, creative improvements, and worldgen options.
 
 ## Version
-Current release: `R1.0`
+Current release: `R1.2`
 
 ## Features
 - Sprinting with stamina
